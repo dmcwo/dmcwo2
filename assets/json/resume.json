@@ -1,37 +1,37 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Doug Worsham",
+    "label": "Higher Education Leader, Learner, and Designer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "d2worsham@ucsd.edu",
+    "phone": "",
+    "url": "https://dmcwo.github.io/dmcwo/",
+    "summary": "Summary goes here.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "CA",
+      "city": "San Diego",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "doug-worsham",
+        "url": "https://www.linkedin.com/in/doug-worsham/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "UC San Diego Library",
+      "position": "Digital Experience Manager",
+      "url": "https://library.ucsd.edu/",
+      "startDate": "2021-04-01",
+      "endDate": "",
+      "summary": "Summary goes here.",
       "highlights": [
-        "Relativity"
+        "Continually improve the holistic user experience across the Library's digital platforms. Build organizational capacity and infrastructure for inclusive, accessible, and equitable design. Center diverse voices at every stage of an engaged and evolving design process. Direct and organize agile project teams to provide a bridge between user needs and highly technical groups, partners, and vendors. Supervise and lead the Digital Experience Team, including 4 full-time staff and 7 student employee design assistants."
       ]
     }
   ],
