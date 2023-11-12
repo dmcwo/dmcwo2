@@ -97,10 +97,18 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Librarian of the Year",
+      "date": "2018-05-25",
+      "awarder": "Librarian’s Association of UCLA",
+      "summary": "In recognition of significant contributions to teaching and learning at UCLA.",
+      "link": "https://lauc.ucop.edu/node/1687"
+    },
+    {
+      "title": "Mid-Career Excellence Award.",
+      "date": "2011",
+      "awarder": "University of Wisconsin, Madison - College of Letters & Science",
+      "summary": "",
+      "link": "https://ls.wisc.edu/faculty-staff/staff-awards/mid-career"
     }
   ],
   "certificates": [],
