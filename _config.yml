@@ -402,7 +402,7 @@ medium_zoom:
 
 jekyll_get_json:
   - data: resume
-    json: assets/json/resume.json # it can also be an url
+    json: https://dmcwo.github.io/dmcwo2/assets/json/resume.json # it can also be an url
 jsonresume:
   - basics
   - work
