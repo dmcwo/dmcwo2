@@ -1,7 +1,12 @@
 ---
 layout: default
 ---
-<p>Test</p>
+  <h2>test area 2</h2>
+    {% for data in site.data.resume %}
+      {% include resume/basics.html %}
+    {% endfor %}
+</div>
+
 <!-- _layouts/cv.html -->
 {% unless site.data.resume %}
 <div class="post">
@@ -96,8 +101,3 @@ layout: default
 </div>
 {% endunless %}
 <div>
-  <h2>test area 2</h2>
-    {% for data in site.data.resume %}
-      {% include resume/basics.html %}
-    {% endfor %}
-</div>
