@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Test Einstein
+      value: Date from _date/cv.yml
     - name: Date of Birth
       value: 14th March 1879
     - name: Languages
